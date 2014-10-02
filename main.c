@@ -1,9 +1,9 @@
 /***********************************************************
- *Filename:				main.c
+ *Filename:			main.c
  *Description:			First file in this repository, find
- *						the max N numbers in a long list.
- *Author:				andyone2003 <andyone2003@gmail.com>
- *Date:					2014/10/02
+ *				the max N numbers in a long list.
+ *Author:			andyone2003 <andyone2003@gmail.com>
+ *Date:				2014/10/02
  *Copyright:			Hangzhou Youwen Automation Ltd.
  **********************************************************/
 
