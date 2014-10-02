@@ -1,4 +1,4 @@
-my_first_repo
+maxN
 =============
 
-my first repository for hello world test
+To find the max N numbers in a long list stored in a file named test.txt.
